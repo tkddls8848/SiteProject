@@ -6,7 +6,8 @@
 *.pot
 *.pyc
 __pycache__/
-homepage/homepage/settings.py
+/homepage/main/migrations
+/homepage/homepage/settings.py
 db.sqlite3
 db.sqlite3-journal
 media
